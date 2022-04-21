@@ -1,4 +1,4 @@
-import { urlCovid,avellaneda } from "../api/config.js";
+import { urlCovid } from "../api/config.js";
 import { api } from "../api/covid19.js";
 
 export const mostrarpaises = async () => {
